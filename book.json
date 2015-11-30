@@ -1,0 +1,21 @@
+{
+    "gitbook": "2.x.x",
+    "plugins": [],
+    "structure": {},
+    "styles": {
+        "website": "estilos/website.css",
+        "ebook": "estilos/ebook.css",
+        "pdf": "estilos/pdf.css",
+        "mobi": "estilos/mobi.css",
+        "epub": "estilos/epub.css"
+    },
+    "links": {
+        "sidebar": {
+            "Contate-me / Suporte": "http://brunoluizgr.com",
+            "UNESP": "http://www.unesp.br/",
+            "UNESP IBILCE": "http://www.ibilce.unesp.br/",
+            "UNESP BAURU": "http://www.bauru.unesp.br/"
+        }
+    },
+    "pluginsConfig": {}
+}
