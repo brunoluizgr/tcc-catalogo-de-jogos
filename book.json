@@ -1,6 +1,14 @@
 {
+    "title": "TCC - Catálogo de Jogos",
+    "description": "Trabalho de Conclusão de Curso - Catálogo de Jogos.",
+    "language": "pt-br",
     "gitbook": "2.x.x",
-    "plugins": [],
+    "plugins": [
+      "-search",
+      "-sharing",
+      "disqus",
+      "toggle-chapters"
+    ],
     "structure": {},
     "styles": {
         "website": "estilos/website.css",
@@ -12,10 +20,12 @@
     "links": {
         "sidebar": {
             "Contate-me / Suporte": "http://brunoluizgr.com",
-            "UNESP": "http://www.unesp.br/",
-            "UNESP IBILCE": "http://www.ibilce.unesp.br/",
-            "UNESP BAURU": "http://www.bauru.unesp.br/"
+            "UNESP": "http://www.unesp.br/"
         }
     },
-    "pluginsConfig": {}
+    "pluginsConfig": {
+      "disqus": {
+            "shortName": "tcc-catalogo-de-jogos"
+      }
+    }
 }
