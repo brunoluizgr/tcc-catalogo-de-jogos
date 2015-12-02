@@ -11,17 +11,15 @@ No menu lateral esquerdo, você terá acesso à lista de todos os jogos estudado
 
 ### 2.  A importância dos jogos no ensino da Matemática
 Quando pensamos em jogos, logo nos remetemos a idéia de disputa, competição, diversão certeza estas sensações são importantes. Entretanto quando o objetivo está focado na aprendizagem é preciso que seja superada estas sensações, é preciso ir além possibilitando aos alunos a apropriação de novos conhecimentos associados aos que eles já possuem.  
-Segundo **Selva & Camargo** (2009)[^2] o jogo é um processo, no qual o aluno necessita de conhecimentos prévios, interpretação de regras e raciocínio, o que representa constantes desafios, pois a cada nova jogada são abertos espaços para a elaboração de novas estratégias, desencadeando situações problema que, ao serem resolvidas, permitem a evolução do pensamento abstrato para o conhecimento efetivo, construído durante a atividade.  
+Segundo **Selva & Camargo** (2009) o jogo é um processo, no qual o aluno necessita de conhecimentos prévios, interpretação de regras e raciocínio, o que representa constantes desafios, pois a cada nova jogada são abertos espaços para a elaboração de novas estratégias, desencadeando situações problema que, ao serem resolvidas, permitem a evolução do pensamento abstrato para o conhecimento efetivo, construído durante a atividade.  
 As dificuldades manifestadas na aprendizagem da disciplina de matemática estão intimamente ligadas a necessidade de novas práticas pedagógicas que ajudem o professor a ajudar seus alunos a aprender.  
-Conforme explica **Grando** (2004)[^3] podemos utilizar o jogo para facilitar a aprendizagem de estruturas matemáticas, principalmente os mais difíceis do aluno assimilar.  
+Conforme explica **Grando** (2004) podemos utilizar o jogo para facilitar a aprendizagem de estruturas matemáticas, principalmente os mais difíceis do aluno assimilar.  
 
 > Ao jogar com os colegas o aluno faz **negociações**, **ouve a opinião dos outros**, **argumenta**, o que torna possível estruturar seu **raciocínio**.  
 
 ### 3.  Sobre a confecção dos tabuleiros e peças  
 A maioria dos tabuleiros aqui confeccionados são feitos com material emborrachado (E.V.A[^1] - Edil Vinil Acetato). O material é **bastante maleável**, **opaco**, **atóxico** e se apresenta em **cores radiantes** e vibrantes, além de ser um material muito **barato** e de fácil aquisição.
-Para os marcadores você poderá utilizar **tampinhas de garrafas**, **peças/pedaços de madeira** ou peças construídas com o próprio E.V.A.[^1]
+Para os marcadores você poderá utilizar **tampinhas de garrafas**, **peças/pedaços de madeira** ou peças construídas com o próprio E.V.A.
 
 ### 4.  Resultados  
 Leia mais sobre os resultados gerados à partir desta pesquisa.  
-
----
