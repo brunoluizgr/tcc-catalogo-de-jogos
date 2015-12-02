@@ -1,6 +1,5 @@
 ![ENSINANDO MATEMÁTICA ATRAVÉS DE JOGOS, MODELOS GEOMÉTRICOS E INFORMÁTICA](/imagens/logo-cover.png   "ENSINANDO MATEMÁTICA")
 
-## ENSINANDO MATEMÁTICA ATRAVÉS DE JOGOS, MODELOS GEOMÉTRICOS E INFORMÁTICA
 ### 1.  Sobre o projeto  
 
 O trabalho com jogos busca criar condições para que todos os alunos possam descobrir ou redescobrir que é possível aprender e conhecer, e, para surpresa de muitos, mesmo as atividades mais formais podem dar prazer, despertar interesse e prender a atenção.  
