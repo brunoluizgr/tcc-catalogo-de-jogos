@@ -28,3 +28,4 @@ Efetuar **adições** e **subtrações** mentalmente.
 5.  O vencedor será aquele que primeiro encaixar, no dominó exposto na mesa, todas as suas peças/pedras.
 6.  Caso haja "fechamento" da partida, o vencedor será aquele que estiver com a menor quantidade de peças/pedras em mãos.  
 <br/>  
+<br/>  

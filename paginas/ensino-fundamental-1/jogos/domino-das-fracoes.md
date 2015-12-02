@@ -20,11 +20,12 @@ Auxilia no entendimento da operação de **divisão** utilizando-se de partes fr
 ##### <i class="fa fa-trophy"></i> Objetivo(s)  
 Identificar as frações através das figuras indicadas nas peças/pedras e fazer comparações entre frações mentalmente.
 <br/>  
-##### <i class="fa fa-thumb-tack"></i> Regras  
+##### <i class="fa fa-thumb-tack"></i> Regras    
 1.  Os participantes devem estar em um grupo de 4 pessoas.  
 2.  Cada participante receberá 7 peças/pedras.
 3.  A pedra de saída será a 5 e 5.
 4.  O próximo a jogar será aquele que estiver à direita do iniciante do jogo.
 5.  O vencedor será aquele que primeiro encaixar, no dominó exposto na mesa, todas as suas peças/pedras.
 6.  Caso haja "fechamento" da partida, o vencedor será aquele que estiver com a menor quantidade de peças/pedras em mãos.  
+<br/>  
 <br/>  

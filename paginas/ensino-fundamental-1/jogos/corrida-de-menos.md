@@ -29,3 +29,4 @@ Alcançar a chegada.
 4.	O vencedor será o jogador que na subtração dos números dados, obter o número exato que falta para a linha de chegada de sua cor correspondente.  
 5.	Se um jogador tirar um número maior do que necessita para sua chegada, ele deve voltar o número de casas correspondentes.  
 <br/>  
+<br/>  

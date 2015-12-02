@@ -23,4 +23,6 @@ Somar frações com o mesmo **denominador**, que quando adicionadas se complemen
 4. O próximo a jogar será aquele que estiver à direita do iniciante do jogo.  
 5. O vencedor será aquele que primeiro encaixar, no dominó, exposto na mesa, todas as suas pedras.  
 6. Caso haja "fechamento" da partida, o vencedor será aquele que tem a menor quantidade de pedras na mão.  
-  6.1. Persistindo o empate, o vencedor será aquele que tiver a pedra de menor número racional.
+  6.1. Persistindo o empate, o vencedor será aquele que tiver a pedra de menor número racional.  
+<br/>  
+<br/>  

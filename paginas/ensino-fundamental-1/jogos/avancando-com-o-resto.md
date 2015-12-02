@@ -5,15 +5,19 @@
 </div>
 <br/>  
 
-### <i class="fa fa-child"></i> Competências e Habilidades  
-Operação de **divisão**, operação de **multiplicação**, perceber o papel do 0, do 1 e do **resto em uma divisão**, **raciocínio** e **convívio social**.  
+#### <i class="fa fa-thumbs-o-up"></i> Recomendação:  
+À partir da **X série**.  
+<br/>  
+
+#### <i class="fa fa-child"></i> Competências e Habilidades  
+Trabalhar com operações de **divisão** e **multiplicação**, perceber o papel do 0, do 1 e do **resto em uma divisão**, estimular o **raciocínio** e o **convívio social**.  
 <br/>  
 
 #### <i class="fa fa-scissors"></i> Material  
 Tabuleiro, 2 marcadores de cores distintas e 1 dado de seis faces.  
 <br/>  
 
-### <div class="row text-center">O Jogo</div>  
+## <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes  
 2 a 4 (em equipes).  
 <br/>  
@@ -58,5 +62,5 @@ Crie um jogo semelhante a este. Para isso, temos várias possibilidades:
 2.  Usar fichas numeradas de 1 a 9.  
 3.  Incluir outros números que possam ser, como a casa 0, que elimina o jogador da brincadeira.  
 4.  Usar dois dados para compor um número de dois algarismos para ser o divisor.  
-
+<br/>  
 <br/>  

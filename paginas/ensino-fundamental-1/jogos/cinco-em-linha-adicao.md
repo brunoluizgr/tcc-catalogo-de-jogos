@@ -5,8 +5,12 @@
 </div>
 <br/>  
 
+#### <i class="fa fa-thumbs-o-up"></i> Recomendação:  
+À partir da **X série**.  
+<br/>  
+
 ### <i class="fa fa-child"></i> Competências e Habilidades:  
-Desenvolver **estimativas**, cálculo mental envolvendo **adição** e **subtração**, **resolução de problemas**, **raciocínio** e **convívio social**.  
+Desenvolver **estimativas**, cálculo mental envolvendo **adição** e **subtração**, auxiliar na **resolução de problemas**, estimular o **raciocínio** e o **convívio social**.  
 <br/>  
 
 #### <i class="fa fa-scissors"></i> Material:  
@@ -30,4 +34,5 @@ Ser a primeira equipe a conseguir cobrir cinco números seguidos do tabuleiro ma
 5.	Se a equipe na sua vez errar ou fizer uma soma que já tenha sido coberta, ela passa a vez sem colocar nenhuma ficha.  
 6.	O objetivo do jogo é ser a primeira equipe a conseguir cobrir cinco números seguidos do tabuleiro maior, em qualquer direção (horizontal, vertical, diagonal).  
 7.	Se nenhuma equipe conseguir colocar cinco fichas em linha e o tabuleiro ficar completo, ganha o jogo a que tiver colocado mais marcadores no tabuleiro.  
+<br/>  
 <br/>  
