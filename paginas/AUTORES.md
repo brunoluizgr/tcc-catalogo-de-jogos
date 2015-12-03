@@ -13,7 +13,7 @@
       Possui graduação em Bacharelado em Matemática Pura pela Universidade Estadual Paulista Júlio de Mesquita Filho (2002), mestrado em Matemática pela Universidade Estadual Paulista Júlio de Mesquita Filho (2005) e doutorado em Matemática pela Universidade Estadual de Campinas (2008). Tem experiência na área de Álgebra, com ênfase em Álgebra Comutativa, Teoria de Valorizações, Propriedades Homológicas de Finitude de Grupos e Álgebras. Atualmente é professora assistente doutora da Universidade Estadual Paulista Júlio de Mesquita Filho-UNESP.
     </div>
     <div class"row">
-      <h5><i class="fa fa-link"></i> [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4736820P6)
+      <h5><i class="fa fa-link"></i>  [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4736820P6)<h5>  
     </div>
   </div>
   <div class="col-md-4 col-lg-4 text-center pull-right">
@@ -31,7 +31,7 @@
       Possui graduação em Licenciatura Em Matemática pela Universidade Estadual Paulista Júlio de Mesquita Filho (2000) e mestrado em Matemática pela Universidade Estadual Paulista Júlio de Mesquita Filho (2003), fez doutorado em sistemas dinâmicos simbólicos, área de seu interesse. Atualmente trabalha como professora doutora no departamento de Matemática da UNESP, campus Bauru.
     </div>
     <div class"row">
-      <h5><i class="fa fa-link"></i> [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4737910P8)</h5>  
+      <h5><i class="fa fa-link"></i>  [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4737910P8)</h5>  
     </div>
   </div>
   <div class="col-md-4 col-lg-4 text-center pull-left">  
@@ -49,7 +49,7 @@
       Formação na área de computação (graduação e mestrado). Professor e pesquisador no Departamento de Computação da Faculdade de Ciências da UNESP campus de Bauru-SP. Leciona nos cursos de graduação em Ciência da Computação e Sistemas de Informação. Docente do programa de pós-graduação em Educação para Ciência (mestrado e doutorado). Áreas de interesse: jogos digitais para o ensino de ciências; e-learning, processos de construção de software para educação.
     </div>
     <div class"row">
-      <h5><i class="fa fa-link"></i> [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763799P0)</h5>  
+      <h5><i class="fa fa-link"></i>  [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763799P0)</h5>  
     </div>
   </div>
   <div class="col-md-4 col-lg-4 text-center pull-right">  
