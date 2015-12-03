@@ -1,13 +1,12 @@
 # Jogo dos Pontinhos  
-<div class="row text-center">
+
 ![Jogo dos Pontinhos](/imagens/jogos/jogo-dos-pontinhos.png "Jogo dos Pontinhos")  
-Fonte: elaborada pelo autor
-</div><br/>  
-### <i class="fa fa-child"></i> Competências e Habilidades:
-<div class="col-md-12 col-lg-12 text-justify">
+Fonte: elaborada pelo autor.  
+
+### <i class="fa fa-child"></i> Competências e Habilidades  
 Cálculo mental envolvendo frações, noções de divisão e soma, raciocínio e convívio social.
-</div><br/>  
-<br/>  
+
+
 #### <i class="fa fa-scissors"></i> Material  
 <div class="col-md-12 col-lg-12 text-justify">
 Tabuleiro e marcadores em formato palito com duas cores distintas (diversos).

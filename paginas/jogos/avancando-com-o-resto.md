@@ -1,41 +1,33 @@
 # Avançando com o Resto  
-<div class="row text-center">
-  ![Avançando com o Resto](/imagens/jogos/avancando-com-o-resto.png "Avançando com o Resto")  
-  Fonte: elaborada pelo autor.
-</div>
-<br/>  
 
-#### <i class="fa fa-thumbs-o-up"></i> Recomendação:  
+![Avançando com o Resto](/imagens/jogos/.png "Avançando com o Resto")  
+Fonte: elaborada pelo autor.  
+
+#### <i class="fa fa-thumbs-o-up"></i> Recomendação  
 À partir da **X série**.  
-<br/>  
 
 #### <i class="fa fa-child"></i> Competências e Habilidades  
 Trabalhar com operações de **divisão** e **multiplicação**, perceber o papel do 0, do 1 e do **resto em uma divisão**, estimular o **raciocínio** e o **convívio social**.  
-<br/>  
 
 #### <i class="fa fa-scissors"></i> Material  
 Tabuleiro, 2 marcadores de cores distintas e 1 dado de seis faces.  
-<br/>  
 
 ## <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes  
 2 a 4 (em equipes).  
-<br/>  
 
 ##### <i class="fa fa-trophy"></i> Objetivo(s)  
-Chegar em primeiro lugar ao espaço com a palavra **FIM**.  
-<br/>  
+Chegar em primeiro lugar ao espaço com a palavra FIM.  
 
 ##### <i class="fa fa-thumb-tack"></i> Regras   
-  1.  Duas equipes jogam alternadamente. Cada equipe movimenta a sua ficha colocada, inicialmente, na casa de número 39.  
+  1.  Duas equipes jogam alternadamente. Cada equipe movimenta a sua ficha colocada, inicialmente, na casa de número 39;  
   2.	Cada equipe, na sua vez, joga o dado e faz uma divisão onde:  
-    2.1.	o divisor é o número de pontos obtidos no dado.  
-    2.2.	o dividendo é o número da casa onde sua ficha está.  
-  3.	Em seguida, calcula o resultado da divisão e movimenta sua ficha o número de casas igual ao resto da divisão.  
-  4.	A equipe que, na sua vez, efetuar algum cálculo errado perde a vez de jogar.  
-  5.	Cada equipe deverá obter um resto que faça chegar exatamente à casa marcada FIM sem ultrapassá-la, mas se isso não for possível, ela perde a vez de jogar e fica no mesmo lugar.  
+    2.1.	o divisor é o número de pontos obtidos no dado;  
+    2.2.	o dividendo é o número da casa onde sua ficha está;  
+  3.	Em seguida, calcula o resultado da divisão e movimenta sua ficha o número de casas igual ao resto da divisão;  
+  4.	A equipe que, na sua vez, efetuar algum cálculo errado perde a vez de jogar;  
+  5.	Cada equipe deverá obter um resto que faça chegar exatamente à casa marcada FIM sem ultrapassá-la, mas se isso não for possível, ela perde a vez de jogar e fica no mesmo lugar;  
   6.	Vence a equipe que chegar primeiro ao espaço com a palavra FIM.  
-<br/>  
 
 ##### <i class="fa fa-thumb-tack"></i> Questões Interessantes para discussão  
 Depois de jogar algumas vezes com a classe, você pode propor problemas para explorar melhor a matemática envolvida no jogo.  
@@ -62,5 +54,3 @@ Crie um jogo semelhante a este. Para isso, temos várias possibilidades:
 2.  Usar fichas numeradas de 1 a 9.  
 3.  Incluir outros números que possam ser, como a casa 0, que elimina o jogador da brincadeira.  
 4.  Usar dois dados para compor um número de dois algarismos para ser o divisor.  
-<br/>  
-<br/>  
