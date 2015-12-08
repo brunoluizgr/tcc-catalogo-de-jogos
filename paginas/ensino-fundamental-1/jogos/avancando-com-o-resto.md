@@ -1,7 +1,7 @@
 # Avançando com o Resto  
 
 ![Avançando com o Resto](/imagens/jogos/avancando-com-o-resto.jpg "Avançando com o Resto")  
-Fonte: elaborada pelo(s) autor(es).    
+Fonte: elaborada pelo(s) autor(es).  
 <br/>  
 
 #### <i class="fa fa-thumbs-o-up"></i> Recomendação  
@@ -32,7 +32,7 @@ Chegar em primeiro lugar ao espaço com a palavra FIM.
 
 
   **Fonte:** BORIM, J. - Jogos e Resolução de problemas: Uma estratégia para as aulas de Matemática – IME-USP, 1996.  
-
+  <br/>  
 ##### <i class="fa fa-thumb-tack"></i> Questões Interessantes para discussão  
 Depois de jogar algumas vezes com a classe, você pode propor problemas para explorar melhor a matemática envolvida no jogo.  
 Quais são os possíveis valores para os **restos das divisões** pelos números que aparecem nos dados?  

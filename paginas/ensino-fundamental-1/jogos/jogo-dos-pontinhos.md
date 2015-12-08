@@ -1,11 +1,12 @@
 # Jogo dos Pontinhos  
 
 ![Jogo dos Pontinhos](/imagens/jogos/jogo-dos-pontinhos.jpg "Jogo dos Pontinhos")  
-Fonte: elaborada pelo autor.  
+Fonte: elaborada pelo(s) autor(es).  
+<br/>  
 
 ### <i class="fa fa-child"></i> Competências e Habilidades  
-Cálculo mental envolvendo frações, noções de divisão e soma, raciocínio e convívio social.
-
+Cálculo mental envolvendo **frações**, noções de **divisão** e soma, **raciocínio** e **convívio social**.  
+<br/>
 
 #### <i class="fa fa-scissors"></i> Material  
 <div class="col-md-12 col-lg-12 text-justify">

@@ -4,6 +4,12 @@
     "language": "pt-br",
     "gitbook": "2.x.x",
     "plugins": [
+      "-search",
+      "-sharing",
+      "ga",
+      "github",
+      "disqus",
+      "toggle-chapters"
     ],
     "structure": {},
     "styles": {
@@ -14,7 +20,25 @@
         "epub": "estilos/epub.css"
     },
     "links": {
+        "sidebar": {
+            "Início": "http://tcc.brunoluizgr.com",
+            "Contate-me / Suporte": "http://brunoluizgr.com",
+            "UNESP": "http://www.unesp.br"
+        }
     },
     "pluginsConfig": {
+      "ga": {
+          "token": "UA-53689653-2",
+           "configuration": {
+              "cookieName": "gaTCC-CatCookie",
+              "cookieDomain": "tcc.brunoluizgr.com/catalogo-de-jogos"
+            }
+      },
+      "github": {
+        "url": "http://github.com/brunoluizgr/tcc-catalogo-de-jogos"
+      },
+      "disqus": {
+            "shortName": "tcc-catalogo-de-jogos"
+      }
     }
 }
