@@ -28,6 +28,8 @@ Chegar em primeiro lugar ao espaço com a palavra FIM.
   4.	A equipe que, na sua vez, efetuar algum cálculo errado perde a vez de jogar;  
   5.	Cada equipe deverá obter um resto que faça chegar exatamente à casa marcada FIM sem ultrapassá-la, mas se isso não for possível, ela perde a vez de jogar e fica no mesmo lugar;  
   6.	Vence a equipe que chegar primeiro ao espaço com a palavra FIM.  
+  <br/>  
+  **Fonte:** Borim, Julia - Jogos e Resolução de problemas: Uma estratégia para as aulas de Matemática – IME-USP, 1996.
 
 ##### <i class="fa fa-thumb-tack"></i> Questões Interessantes para discussão  
 Depois de jogar algumas vezes com a classe, você pode propor problemas para explorar melhor a matemática envolvida no jogo.  

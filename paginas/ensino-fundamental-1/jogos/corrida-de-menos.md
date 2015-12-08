@@ -1,9 +1,10 @@
 # Corrida de Menos  
 
-![Corrida de Menos](/imagens/jogos/corrida-de-menos.png "Corrida de Menos")  
+![Corrida de Menos](/imagens/jogos/corrida-de-menos.jpg "Corrida de Menos")  
 Fonte: elaborada pelo autor.  
+<br/>  
 
-#### <i class="fa fa-thumbs-o-up"></i> Recomendação
+#### <i class="fa fa-thumbs-o-up"></i> Recomendação  
 À partir da **X série**.  
 
 ### <i class="fa fa-child"></i> Competências e Habilidades  
@@ -25,3 +26,5 @@ Alcançar a chegada.
 3.	Aquele jogador que cair na quinta casa (onde se lê: -3) deve voltar três casas;  
 4.	O vencedor será o jogador que na subtração dos números dados, obter o número exato que falta para a linha de chegada de sua cor correspondente;  
 5.	Se um jogador tirar um número maior do que necessita para sua chegada, ele deve voltar o número de casas correspondentes.  
+<br/>  
+<br/>  

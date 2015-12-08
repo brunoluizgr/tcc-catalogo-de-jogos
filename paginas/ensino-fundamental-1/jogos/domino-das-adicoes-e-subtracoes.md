@@ -1,8 +1,7 @@
 # Dominó das Adições e Subtrações  
-<div class="row text-center">
-  ![Dominó das Adições e Subtrações](/imagens/jogos/ "Dominó das Adições e Subtrações")  
-  Fonte: elaborada pelo autor
-</div>
+
+![Dominó das Adições e Subtrações](/imagens/jogos/ "Dominó das Adições e Subtrações")  
+Fonte: elaborada pelo autor  
 <br/>  
 
 ### <i class="fa fa-child"></i> Competências e Habilidades:  
