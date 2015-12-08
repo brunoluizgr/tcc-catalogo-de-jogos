@@ -1,25 +1,25 @@
 # Avançando com o Resto  
 
 ![Avançando com o Resto](/imagens/jogos/avancando-com-o-resto.jpg "Avançando com o Resto")  
-Fonte: elaborada pelo autor.  
+Fonte: elaborada pelo(s) autor(es).    
 <br/>  
 
 #### <i class="fa fa-thumbs-o-up"></i> Recomendação  
 À partir da **X série**.  
-
+<br/>
 #### <i class="fa fa-child"></i> Competências e Habilidades  
 Trabalhar com operações de **divisão** e **multiplicação**, perceber o papel do 0, do 1 e do **resto em uma divisão**, estimular o **raciocínio** e o **convívio social**.  
-
+<br/>
 #### <i class="fa fa-scissors"></i> Material  
 Tabuleiro, 2 marcadores de cores distintas e 1 dado de seis faces.  
-
+<br/>
 ## <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes  
-2 a 4 (em equipes).  
-
+2 a 4 - em equipes.  
+<br/>
 ##### <i class="fa fa-trophy"></i> Objetivo(s)  
 Chegar em primeiro lugar ao espaço com a palavra FIM.  
-
+<br/>
 ##### <i class="fa fa-thumb-tack"></i> Regras   
   1.  Duas equipes jogam alternadamente. Cada equipe movimenta a sua ficha colocada, inicialmente, na casa de número 39;  
   2.	Cada equipe, na sua vez, joga o dado e faz uma divisão onde:  
@@ -28,9 +28,10 @@ Chegar em primeiro lugar ao espaço com a palavra FIM.
   3.	Em seguida, calcula o resultado da divisão e movimenta sua ficha o número de casas igual ao resto da divisão;  
   4.	A equipe que, na sua vez, efetuar algum cálculo errado perde a vez de jogar;  
   5.	Cada equipe deverá obter um resto que faça chegar exatamente à casa marcada FIM sem ultrapassá-la, mas se isso não for possível, ela perde a vez de jogar e fica no mesmo lugar;  
-  6.	Vence a equipe que chegar primeiro ao espaço com a palavra FIM.  
-  <br/>
-  **Fonte:** BORIM, J. - Jogos e Resolução de problemas: Uma estratégia para as aulas de Matemática – IME-USP, 1996.
+  6.	Vence a equipe que chegar primeiro ao espaço com a palavra FIM.<br/>  
+
+
+  **Fonte:** BORIM, J. - Jogos e Resolução de problemas: Uma estratégia para as aulas de Matemática – IME-USP, 1996.  
 
 ##### <i class="fa fa-thumb-tack"></i> Questões Interessantes para discussão  
 Depois de jogar algumas vezes com a classe, você pode propor problemas para explorar melhor a matemática envolvida no jogo.  

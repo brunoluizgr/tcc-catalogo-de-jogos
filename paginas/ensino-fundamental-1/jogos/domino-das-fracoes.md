@@ -1,31 +1,34 @@
 # Dominó das Frações  
-<div class="row text-center">
-  ![Dominó das Frações](/imagens/jogos/ "Dominó das Frações")  
-  Fonte: elaborada pelo autor
-</div>
+
+![Dominó das Frações](/imagens/jogos/domino-das-fracoes.jpg "Dominó das Frações")  
+Fonte: elaborada pelo(s) autor(es).   
 <br/>  
 
+#### <i class="fa fa-thumbs-o-up"></i> Recomendação  
+À partir da **X série**.  
+<br/>
 ### <i class="fa fa-child"></i> Competências e Habilidades   
-Auxilia no entendimento da operação de **divisão** utilizando-se de partes fracionárias, desperta interesse pelos ensinamentos matemáticos básicos, **raciocínio** e **convívio social**.  
+Identificar as frações através das figuras indicadas nas peças/pedras e fazer comparações entre frações mentalmente, auxilia no entendimento da operação de **divisão** utilizando-se de partes fracionárias, desperta interesse pelos ensinamentos matemáticos básicos, **raciocínio** e **convívio social**.  
 <br/>  
-
 #### <i class="fa fa-scissors"></i> Material   
-28 peças/pedras com diferentes inscrições e desenhos com representações de diferentes frações.
+28 peças/pedras com diferentes inscrições e desenhos com diferentes representações de frações.
 <br/>  
-
-### <div class="row text-center">O Jogo</div>  
+## <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes  
-2 a 4 (individual, não em grupos).  
+2 a 4 - individualmente.  
 <br/>  
 ##### <i class="fa fa-trophy"></i> Objetivo(s)  
-Identificar as frações através das figuras indicadas nas peças/pedras e fazer comparações entre frações mentalmente.
+Liberar todas as suas peças/pedras da mão.  
 <br/>  
 ##### <i class="fa fa-thumb-tack"></i> Regras    
-1.  Os participantes devem estar em um grupo de 4 pessoas.  
-2.  Cada participante receberá 7 peças/pedras.
-3.  A pedra de saída será a 5 e 5.
-4.  O próximo a jogar será aquele que estiver à direita do iniciante do jogo.
-5.  O vencedor será aquele que primeiro encaixar, no dominó exposto na mesa, todas as suas peças/pedras.
+1.  Os participantes devem estar em um grupo de 4 pessoas;  
+2.  Cada participante receberá 7 peças/pedras;  
+3.  A pedra de saída será a 5 e 5;  
+4.  O próximo a jogar será aquele que estiver à direita do iniciante do jogo;  
+5.  O vencedor será aquele que primeiro encaixar, no dominó exposto na mesa, todas as suas peças/pedras;  
 6.  Caso haja "fechamento" da partida, o vencedor será aquele que estiver com a menor quantidade de peças/pedras em mãos.  
+<br/>  
+
+**Fonte:** elaborada pelos autor(es).  
 <br/>  
 <br/>  

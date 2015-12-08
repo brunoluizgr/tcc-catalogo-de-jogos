@@ -1,6 +1,6 @@
 # Mancala   
 
-![Mancala](/imagens/jogos/.png "Mancala")  
+![Mancala](/imagens/jogos/mancala.jpg "Mancala")  
 Fonte: [youcubed.org](https://www.youcubed.org/wp-content/uploads/Mancala.jpg).  
 
 #### <i class="fa fa-thumbs-o-up"></i> Recomendação  
@@ -14,7 +14,7 @@ Tabuleiro retangular contendo 14 cavidades e 36 sementes.
 
 ### <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes  
-2 (um contra o outro).  
+2 - um contra o outro.  
 
 ##### <i class="fa fa-trophy"></i> Objetivo(s)  
 Obter maior quantidade de sementes que o adversário.  
