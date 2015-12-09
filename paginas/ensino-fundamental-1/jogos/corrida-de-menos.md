@@ -15,7 +15,7 @@ Tabuleiro, 4 marcadores de cores distintas e 2 dados de seis faces.
 <br/>
 ## <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes  
-2 a 8 - em equipes de 2 ou 4 jogadores sozinhos.  
+2 a 8 - em equipes de 2 ou 4 jogadores.  
 <br/>
 ##### <i class="fa fa-trophy"></i> Objetivo(s)  
 Alcançar a chegada.  
