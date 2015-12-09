@@ -11,15 +11,16 @@ Fonte: elaborada pelo(s) autor(es).
 Cálculo mental envolvendo **multiplicação*, **raciocínio** e **convívio social**.  
 <br/>
 #### <i class="fa fa-scissors"></i> Material  
-Tabuleiro, 40 marcadores e dois dados (1 de 6 faces e 1 de 10 faces).
-<br/>
-### <div class="row text-center">O Jogo</div>  
+Tabuleiro, 40 marcadores e dois dados (1 de 6 faces e 1 de 10 faces).  
+**Imprima o tabuleiro e os dados clicando** [aqui](http://www.mat.ibilce.unesp.br/laboratorio/img/jogos/pdf/feche_a_caixa_multiplicacao.pdf).  
+<br/>  
+## <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes  
 2 a 6 - em equipes de 2 ou 3 jogadores.  
-
+<br/>  
 ##### <i class="fa fa-trophy"></i> Objetivo(s)  
 Fechar o maior número de caixas, perdendo o mínimo de pontos.  
-
+<br/>  
 ##### <i class="fa fa-thumb-tack"></i> Regras  
 1. Distribuir o material para as duas equipes;  
 2. Decidir qual das equipes iniciará o jogo;  

@@ -5,7 +5,7 @@ Fonte: elaborada pelo(s) autor(es).
 <br/>  
 
 #### <i class="fa fa-thumbs-o-up"></i> Recomendação  
-À partir da **X série**.  
+À partir do **1º ano do Ensino Fundamental**.  
 <br/>
 ### <i class="fa fa-child"></i> Competências e Habilidades:  
 Efetuar operações de **adição** e **subtração** mentalmente, despertar interesse pelos ensinamentos matemáticos básicos, **raciocínio** e **convívio social**.  

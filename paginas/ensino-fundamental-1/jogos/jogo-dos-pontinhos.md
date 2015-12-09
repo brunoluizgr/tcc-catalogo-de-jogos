@@ -4,16 +4,16 @@
 Fonte: elaborada pelo(s) autor(es).  
 <br/>  
 
+#### <i class="fa fa-thumbs-o-up"></i> Recomendação  
+À partir da **X série**.  
+<br/>  
 ### <i class="fa fa-child"></i> Competências e Habilidades  
 Cálculo mental envolvendo **frações**, noções de **divisão** e soma, **raciocínio** e **convívio social**.  
-<br/>
-
-#### <i class="fa fa-scissors"></i> Material  
-<div class="col-md-12 col-lg-12 text-justify">
-Tabuleiro e marcadores em formato palito com duas cores distintas (diversos).
-</div><br/>  
 <br/>  
-### <div class="row text-center">O Jogo</div>  
+#### <i class="fa fa-scissors"></i> Material  
+Tabuleiro e marcadores em formato palito com duas cores distintas (diversos).
+<br/>
+## <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes  
 <div class="col-md-12 col-lg-12 text-justify">
 2

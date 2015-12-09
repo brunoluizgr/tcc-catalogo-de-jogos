@@ -6,18 +6,17 @@ Fonte: Crescimento[^1].
 O Ensino **Fundamental** é um dos níveis da **Educação Básica** no Brasil, ele é obrigatório, gratuito (nas escolas públicas), e atende crianças à partir dos **6 anos** de idade.  
 <br/>
 O objetivo do **Ensino Fundamental Brasileiro** é a formação básica do cidadão. Para isso, segundo o artigo 32º da Lei de Diretrizes e Bases da Educação Nacional (LDB), é necessário:  
-<br/>
-**1**. o desenvolvimento da capacidade de aprender, tendo como meios básicos o pleno domínio da **leitura**, da **escrita** e do **cálculo**;  
-**2**. a compreensão do **ambiente natural e social**, do **sistema político**, da **tecnologia**, das **artes** e dos **valores** em que se fundamenta a sociedade;  
-**3**. o desenvolvimento da capacidade de **aprendizagem**, tendo em vista a aquisição de **conhecimentos** e **habilidades** e a formação de **atitudes e valores**;  
-**4**. o fortalecimento dos **vínculos de família**, dos **laços de solidariedade humana** e de **tolerância recíproca** em que se assenta a vida social.  
-<br/>
+1. o desenvolvimento da capacidade de aprender, tendo como meios básicos o pleno domínio da **leitura**, da **escrita** e do **cálculo**;  
+2. a compreensão do **ambiente natural e social**, do **sistema político**, da **tecnologia**, das **artes** e dos **valores** em que se fundamenta a sociedade;  
+3. o desenvolvimento da capacidade de **aprendizagem**, tendo em vista a aquisição de **conhecimentos** e **habilidades** e a formação de **atitudes e valores**;  
+4. o fortalecimento dos **vínculos de família**, dos **laços de solidariedade humana** e de **tolerância recíproca** em que se assenta a vida social.  
+<br/>  
+
 Desde 2006, a duração do Ensino Fundamental, que até então era de 8 anos, passou a ser de 9 anos. A Lei de Diretrizes e Bases da Educação (LDB 9395/96) foi alterada em seus artigos 29, 30, 32 e 87, através da Lei Ordinária 11.274/2006, e ampliou a duração do Ensino Fundamental para 9 anos, estabelecendo como prazo para implementação da lei pelos sistemas de ensino, o ano de 2010.
 <br/>
 O Ensino Fundamental passou então a ser dividido da seguinte forma:  
-<br/>
-- [Anos Iniciais](../../paginas/ensino-fundamental-1/INTRO.html) – compreende do 1º ao 5º ano, sendo que a criança ingressa no 1º ano aos 6 anos de idade.  
-- **Anos Finais** – compreende do **6º ao 9º** ano.  
+- [Anos Iniciais](../../paginas/ensino-fundamental-1/INTRO.html) – compreende do 1º ao 5º ano, sendo que a criança ingressa no 1º ano aos **6 anos** de idade.  
+- **Anos Finais** – compreende do 6º ao 9º ano.  
 
 Os sistemas de ensino têm autonomia para desdobrar o Ensino Fundamental em ciclos, desde que respeitem a carga horária mínima anual de **800 horas**, distribuídos em, no mínimo, **200 dias letivos efetivos**.  
 

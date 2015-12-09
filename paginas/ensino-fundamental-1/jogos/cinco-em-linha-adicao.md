@@ -4,19 +4,19 @@
 Fonte: elaborada pelo(s) autor(es).    
 <br/>  
 
-#### <i class="fa fa-thumbs-o-up"></i> Recomendação  
-À partir da **X série**.  
-<br/>
 ### <i class="fa fa-child"></i> Competências e Habilidades  
 Desenvolver **estimativas**, cálculo mental envolvendo **adição**, auxiliar na **resolução de problemas**, estimular o **raciocínio** e o **convívio social**.  
 <br/>
 #### <i class="fa fa-scissors"></i> Material  
 Tabuleiro e 20 marcadores de cores distintas (10 de cada cor).  
+**Imprima o tabuleiro e os marcadores** [aqui](http://www.mat.ibilce.unesp.br/laboratorio/img/jogos/pdf/cinco_em_linha_adicao.pdf).  
 <br/>
 ## <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes  
-2 a 6 - em equipes.  
-<br/>
+- 2 - um contra o outro.
+- até 6 - em equipes de 2 ou 3 jogadores.  
+<br/>  
+
 ##### <i class="fa fa-trophy"></i> Objetivo(s)  
 Ser a primeira equipe a conseguir cobrir cinco números seguidos do tabuleiro maior, em qualquer direção (horizontal, vertical e diagonal).  
 <br/>
@@ -29,6 +29,9 @@ Ser a primeira equipe a conseguir cobrir cinco números seguidos do tabuleiro ma
 6.	O objetivo do jogo é ser a primeira equipe a conseguir cobrir cinco números seguidos do tabuleiro maior, em qualquer direção (horizontal, vertical, diagonal);  
 7.	Se nenhuma equipe conseguir colocar cinco fichas em linha e o tabuleiro ficar completo, ganha o jogo a que tiver colocado mais marcadores no tabuleiro.<br/>  
 
-**Fonte:** IBILCE - Instituto de Biociências, Letras e Ciências Exatas.  
+**Fonte:** IBILCE - Instituto de Biociências, Letras e Ciências Exatas. *Jogos no Ensino de Matemática*.[^1]  
+<br/>
+---  
+[^1]: Disponível em http://www.ibilce.unesp.br/#!/departamentos/matematica/extensao/lab-mat/jogos-no-ensino-de-matematica. Acesso em Outubro de 2015.
 <br/>  
 <br/>  

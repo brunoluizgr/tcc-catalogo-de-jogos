@@ -4,19 +4,19 @@
 Fonte: elaborada pelo(s) autor(es).  
 <br/>  
 
-#### <i class="fa fa-thumbs-o-up"></i> Recomendação  
-À partir da **X série**.  
-<br/>
 #### <i class="fa fa-child"></i> Competências e Habilidades  
 Trabalhar com operações de **divisão** e **multiplicação**, perceber o papel do 0, do 1 e do **resto em uma divisão**, estimular o **raciocínio** e o **convívio social**.  
 <br/>
 #### <i class="fa fa-scissors"></i> Material  
 Tabuleiro, 2 marcadores de cores distintas e 1 dado de seis faces.  
+**Imprima o tabuleiro, os marcadores e os dados clicando** [aqui](http://www.ibilce.unesp.br/Home/Departamentos/Matematica/labmat/avancando.pdf).  
 <br/>
 ## <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes  
-2 a 4 - em equipes.  
-<br/>
+- 2 - um contra o outro.  
+- até 4 - em equipes de 2 jogadores.  
+<br/>  
+
 ##### <i class="fa fa-trophy"></i> Objetivo(s)  
 Chegar em primeiro lugar ao espaço com a palavra FIM.  
 <br/>
@@ -31,7 +31,7 @@ Chegar em primeiro lugar ao espaço com a palavra FIM.
   6.	Vence a equipe que chegar primeiro ao espaço com a palavra FIM.<br/>  
 
 
-  **Fonte:** BORIM, J. - Jogos e Resolução de problemas: Uma estratégia para as aulas de Matemática – IME-USP, 1996.  
+  **Fonte:** BORIM, J. - *Jogos e Resolução de problemas: Uma estratégia para as aulas de Matemática* – IME-USP, 1996.  
   <br/>  
 ##### <i class="fa fa-thumb-tack"></i> Questões Interessantes para discussão  
 Depois de jogar algumas vezes com a classe, você pode propor problemas para explorar melhor a matemática envolvida no jogo.  
