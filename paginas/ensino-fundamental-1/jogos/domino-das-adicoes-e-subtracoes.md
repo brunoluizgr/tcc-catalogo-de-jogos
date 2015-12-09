@@ -4,9 +4,6 @@
 Fonte: elaborada pelo(s) autor(es).   
 <br/>  
 
-#### <i class="fa fa-thumbs-o-up"></i> Recomendação  
-À partir do **1º ano do Ensino Fundamental**.  
-<br/>
 ### <i class="fa fa-child"></i> Competências e Habilidades:  
 Efetuar operações de **adição** e **subtração** mentalmente, despertar interesse pelos ensinamentos matemáticos básicos, **raciocínio** e **convívio social**.  
 <br/>  
@@ -15,8 +12,10 @@ Efetuar operações de **adição** e **subtração** mentalmente, despertar int
 <br/>  
 ## <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes:  
-2 a 4 - individualmente.  
+- 2 - um contra o outro.
+- até 4 - em equipes de 2 jogadores.  
 <br/>  
+
 ##### <i class="fa fa-trophy"></i> Objetivo(s):  
 Liberar todas as suas peças/pedras da mão.  
 <br/>  
