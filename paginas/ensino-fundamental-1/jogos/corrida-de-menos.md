@@ -6,11 +6,13 @@ Fonte: elaborada pelo(s) autor(es).
 
 ### <i class="fa fa-child"></i> Competências e Habilidades  
 Cálculo mental envolvendo **subtração**, **raciocínio** e **convívio social**.  
-<br/>
+<br/>  
+
 #### <i class="fa fa-scissors"></i> Material  
 Tabuleiro, 4 marcadores de cores distintas e 2 dados de seis faces.  
 **Imprima o tabuleiro, os marcadores e os dados clicando** [aqui](http://www.ibilce.unesp.br/Home/Departamentos/Matematica/labmat/corrida_de_menos.pdf).  
-<br/>
+<br/>  
+
 ## <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes  
 - 2 - um contra o outro.

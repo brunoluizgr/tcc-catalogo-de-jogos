@@ -7,9 +7,11 @@ Fonte: elaborada pelo(s) autor(es).
 #### <i class="fa fa-child"></i> Competências e Habilidades  
 Identificar o correspondente da **linguagem escrita** com seu **valor numérico**, despertar interesse pelos ensinamentos matemáticos básicos, **raciocínio** e **convívio social**.  
 <br/>  
+
 #### <i class="fa fa-scissors"></i> Material  
 28 peças/pedras com diferentes inscrições de números e suas representações em linguagem escrita, por exemplo, 6 = "meia dúzia", 24 = "duas dúzias", etc.  
 <br/>  
+
 ## <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes  
 - 2 - um contra o outro.

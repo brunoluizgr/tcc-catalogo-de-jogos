@@ -6,11 +6,13 @@ Fonte: elaborada pelo(s) autor(es).
 
 ### <i class="fa fa-child"></i> Competências e Habilidades  
 Desenvolver **estimativas**, cálculo mental envolvendo **multiplicação**, auxiliar na **resolução de problemas**, estimular o **raciocínio** e o **convívio social**.  
-<br/>
+<br/>  
+
 #### <i class="fa fa-scissors"></i> Material  
 Tabuleiro e 20 marcadores de cores distintas (10 de cada cor).  
 **Imprima o tabuleiro e os marcadores clicando** [aqui](http://www.ibilce.unesp.br/Home/Departamentos/Matematica/labmat/cinco_em_linha_multiplicacao.pdf).  
-<br/>
+<br/>  
+
 ## <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes  
 - 2 - um contra o outro.

@@ -7,9 +7,11 @@ Fonte: elaborada pelo(s) autor(es).
 ### <i class="fa fa-child"></i> Competências e Habilidades   
 Identificar as frações através das figuras indicadas nas peças/pedras e fazer comparações entre frações mentalmente, auxilia no entendimento da operação de **divisão** utilizando-se de partes fracionárias, desperta interesse pelos ensinamentos matemáticos básicos, **raciocínio** e **convívio social**.  
 <br/>  
+
 #### <i class="fa fa-scissors"></i> Material   
 28 peças/pedras com diferentes inscrições e desenhos com diferentes representações de frações.
 <br/>  
+
 ## <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes  
 - 2 - um contra o outro.

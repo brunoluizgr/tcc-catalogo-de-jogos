@@ -7,9 +7,11 @@ Fonte: elaborada pelo(s) autor(es).
 ### <i class="fa fa-child"></i> Competências e Habilidades:  
 Efetuar operações de **adição** e **subtração** mentalmente, despertar interesse pelos ensinamentos matemáticos básicos, **raciocínio** e **convívio social**.  
 <br/>  
+
 #### <i class="fa fa-scissors"></i> Material:  
 28 peças/pedras com diferentes inscrições de números inteiros e de operações (adição e subtração) com números inteiros.  
 <br/>  
+
 ## <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes:  
 - 2 - um contra o outro.

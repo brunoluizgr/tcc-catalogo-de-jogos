@@ -2,9 +2,7 @@
 
 ![Quadrado Mágico (Soma 15)](/imagens/jogos/.png "Quadrado Mágico (Soma 15)")  
 Fonte: elaborada pelo autor.  
-
-#### <i class="fa fa-thumbs-o-up"></i> Recomendação  
-À partir da **X série**.  
+<br/>  
 
 #### <i class="fa fa-child"></i> Competências e Habilidades  
 

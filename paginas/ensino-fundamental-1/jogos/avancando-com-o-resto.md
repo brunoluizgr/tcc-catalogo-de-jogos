@@ -6,11 +6,13 @@ Fonte: elaborada pelo(s) autor(es).
 
 #### <i class="fa fa-child"></i> Competências e Habilidades  
 Trabalhar com operações de **divisão** e **multiplicação**, perceber o papel do 0, do 1 e do **resto em uma divisão**, estimular o **raciocínio** e o **convívio social**.  
-<br/>
+<br/>  
+
 #### <i class="fa fa-scissors"></i> Material  
 Tabuleiro, 2 marcadores de cores distintas e 1 dado de seis faces.  
 **Imprima o tabuleiro, os marcadores e os dados clicando** [aqui](http://www.ibilce.unesp.br/Home/Departamentos/Matematica/labmat/avancando.pdf).  
-<br/>
+<br/>  
+
 ## <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes  
 - 2 - um contra o outro.  
