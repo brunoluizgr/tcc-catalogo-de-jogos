@@ -7,7 +7,7 @@
 	Para um trabalho sistemático com jogos, é necessário que os mesmos sejam escolhidos e trabalhados com o intuito de fazer o aluno ultrapassar a fase da mera tentativa e erro, ou de jogar pela diversão apenas. Por isso, é essencial a escolha de uma metodologia de trabalho que permita a <b>exploração do potencial</b> dos jogos no desenvolvimento de <b>competências</b> e <b>habilidades</b>, como <b>cálculo mental</b>, <b>raciocínio lógico e intuitivo</b>, o que pode ser feito por meio da <b>metodologia de resolução de problemas</b>.
 </div>  
 
-![Jogos Educativos](/imagens/intro-img-1.png "Jogos Educativos")  
+![Jogos Educativos](/imagens/intro-img.png "Jogos Educativos")  
 
 <b>Fonte:</b> [IBILCE - Instituto de Biociências, Letras e Ciências Exatas](http://www.ibilce.unesp.br/Home/Departamentos/Matematica/labmat/jogo_capa.png).  
 
