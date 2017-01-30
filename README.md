@@ -1,10 +1,10 @@
-![ENSINANDO MATEMÁTICA ATRAVÉS DE JOGOS, MODELOS GEOMÉTRICOS E INFORMÁTICA](https://github.com/brunoluizgr/tcc-catalogo-de-jogos/catalogo-de-jogos/imagens/logo-cover.png "ENSINANDO MATEMÁTICA")
+![ENSINANDO MATEMÁTICA ATRAVÉS DE JOGOS, MODELOS GEOMÉTRICOS E INFORMÁTICA](/catalogo-de-jogos/imagens/logo-cover.png "ENSINANDO MATEMÁTICA")
 
 ###1. Sobre o Projeto
 O trabalho com jogos busca criar condições para que todos os alunos possam descobrir ou redescobrir que é possível aprender e conhecer, que mesmo as atividades mais formais podem dar prazer, despertar interesse e prender a atenção.
 Para um trabalho sistemático com jogos, é necessário que os mesmos sejam escolhidos e trabalhados com o intuito de fazer o aluno ultrapassar a fase da mera tentativa e erro, ou de jogar pela diversão apenas. Por isso, é essencial a escolha de uma metodologia de trabalho que permita a **exploração do potencial** dos jogos no desenvolvimento de **competências** e **habilidades**, como **cálculo mental**, **raciocínio lógico e intuitivo**, o que pode ser feito por meio da **metodologia de resolução de problemas**.
 
-![Jogos Educativos](https://github.com/brunoluizgr/tcc-catalogo-de-jogos/catalogo-de-jogos/imagens/intro-img-1.png "Jogos Educativos")  
+![Jogos Educativos](/catalogo-de-jogos/imagens/intro-img-1.png "Jogos Educativos")  
 
 **Fonte:** [IBILCE - Instituto de Biociências, Letras e Ciências Exatas](http://www.ibilce.unesp.br/Home/Departamentos/Matematica/labmat/jogo_capa.png).  
 
