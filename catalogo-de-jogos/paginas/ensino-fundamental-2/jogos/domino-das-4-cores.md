@@ -9,34 +9,29 @@ A partir da 6ª série/6º ano.
 <br>
 
 #### <i class="fa fa-child"></i> Competências e Habilidades  
-Identificar o correspondente da **linguagem escrita** com seu **valor numérico**, despertar interesse pelos ensinamentos matemáticos básicos, **raciocínio** e **convívio social**.  
+Elaborar possíveis **estratégias** para resolver problemas.  
 <br>  
 
 #### <i class="fa fa-scissors"></i> Material  
-28 peças/pedras com diferentes inscrições de números e suas representações em linguagem escrita, por exemplo, 6 = "meia dúzia", 24 = "duas dúzias", etc.  
+18 peças de diferentes tamanhos e cores diferentes (ou 36 para o jogo competitivo).  
+**Imprima o tabuleiro e os dados clicando** [aqui](http://www.ibilce.unesp.br/Home/Departamentos/Matematica/labmat/domino_4cores.pdf).  
 <br>  
 
 ## <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes  
-- 2 - um contra o outro.
+- 1 único jogador.  
+- 2 - um contra o outro.  
 - de 4 a 6 - em equipes de 2 ou 3 jogadores.  
 <br>  
 
 ##### <i class="fa fa-trophy"></i> Objetivo(s)  
-O jogador/equipe liberar todas as suas peças/pedras da mão.  
+Compor um quadrado usando as peças de modo que as cores iguais não sejam vizinhas, nem mesmo nos cantos.   
 <br>  
 ##### <i class="fa fa-thumb-tack"></i> Regras   
-1.  Os participantes devem jogar um contra o outro ou estar em um grupo de até 3 pessoas (totalizando 6 jogadores);
-2.	Os jogadores devem sentar-se intercalados de acordo com os times, sempre colocando uma pessoa do grupo 1 e em seguida outra do grupo 2.
-3.  Cada participante receberá um número de peças equivalente ao 'número total de peças dividido pelo número total de jogadores', mantendo a proporção jogadores/peças;  
-4.  A pedra de saída será 'meia dúzia' e 'meia dúzia' (nomeada como a peça 0);  
-5.  O próximo a jogar será aquele que estiver à direita do iniciante do jogo;  
-6.  O jogador deve encaixar sua peça/pedra na mesa conforme as pedras presentes nas pontas do caminho formado pelo dominó (seguindo as regras do dominó tradicional).  
-  6.1 O jogador que não conseguir encaixar nenhuma pedra/peça nem seu turno deverá ceder sua vez ao próximo adversário da fila.  
-7.  O vencedor será aquele, jogador ou time, que primeiro encaixar, no caminho/dominó exposto na mesa, todas as suas peças/pedras;
-8.  Caso haja "fechamento" da partida, o vencedor, jogador ou time, será aquele que estiver com a menor quantidade de peças/pedras em mãos.  
-<br>  
+1. Para jogar individualmente, deve-se formar um quadrado usando todas as peças, sem que se toquem, nem mesmo nos cantos;  
+2. Para se jogar em dupla, podem-se adotar dois procedimentos:  
+a) Cada jogador à sua vez, escolhe uma peça e a coloca sobre a base quadrada (não precisa ser adjacente à última colocada). Perde o jogo aquele que não conseguir, à sua vez, colocar uma peça dentro da área do quadrado, de acordo com as regras;  
+b) Cada jogador escolhe nove peças antes do início da partida. À sua vez, só poderá colocar uma dentre as peças já selecionadas. O jogo prossegue até que os jogadores não possam mais colocar peças para formar o quadrado. Ganha quem ficar com menos peças ao final da partida;  
 
-**Fonte:** elaborada pelos autor(es).  
-<br>  
+**Fonte**: MACEDO _et al_. _"Aprender com jogos e Situações-Problema"_ – Artmed Editora, 2000.
 <br>  

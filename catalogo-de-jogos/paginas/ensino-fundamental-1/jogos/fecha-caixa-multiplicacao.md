@@ -14,7 +14,7 @@ Cálculo mental envolvendo **multiplicação**, **raciocínio** e **convívio so
 
 #### <i class="fa fa-scissors"></i> Material  
 Tabuleiro, 40 marcadores e dois dados (1 de 6 faces e 1 de 10 faces).  
-**Imprima o tabuleiro e os dados clicando** [aqui](http://www.mat.ibilce.unesp.br/laboratorio/img/jogos/pdf/feche_a_caixa_multiplicacao.pdf).  
+**Imprima o tabuleiro e os dados clicando** [aqui](http://www.ibilce.unesp.br/Home/Departamentos/Matematica/labmat/feche_a_caixa_multiplicacao.pdf).  
 <br>  
 
 ## <div class="row text-center">O Jogo</div>  

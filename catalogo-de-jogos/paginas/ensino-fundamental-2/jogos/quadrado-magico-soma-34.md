@@ -13,8 +13,27 @@ Cálculo mental envolvendo **soma**, **raciocínio** e **convívio social**.
 <br>
 
 #### <i class="fa fa-scissors"></i> Material  
-Tabuleiro de 5x5 (casas) e marcadores numerados de 1 a 9.  
-
+Tabuleiro de 4x4 (casas) e marcadores numerados de 1 a 16.  
+**Imprima o tabuleiro e os marcadores** [aqui](http://www.ibilce.unesp.br/Home/Departamentos/Matematica/labmat/soma_34.pdf).  
+  
+| Peça com Número | Quantidade |
+|:---------------:|:----------:|
+|        1        |      1     |
+|        2        |      1     |
+|        3        |      1     |
+|        4        |      1     |
+|        5        |      1     |
+|        6        |      1     |
+|        7        |      1     |
+|        8        |      1     |
+|        9        |      1     |
+|        10       |      1     |
+|        12       |      2     |
+|        13       |      1     |
+|        14       |      1     |
+|        15       |      1     |
+|        16       |      1     |
+  
 ## <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes  
 - 2 - um contra o outro.  
@@ -22,7 +41,7 @@ Tabuleiro de 5x5 (casas) e marcadores numerados de 1 a 9.
 <br> 
 
 ##### <i class="fa fa-trophy"></i> Objetivo(s)  
-Distribuir os algarismos de um a nove na tabela 5x5, de modo a manter a soma 34 no quadrado, isto é, a soma das linhas, das colunas e das diagonais seja sempre 28.  
+Distribuir os algarismos de um a nove na tabela 4x4, de modo a manter a soma 34 no quadrado, isto é, a soma das linhas, das colunas e das diagonais seja sempre 34.  
 <br>  
 
 ##### <i class="fa fa-thumb-tack"></i> Regras  

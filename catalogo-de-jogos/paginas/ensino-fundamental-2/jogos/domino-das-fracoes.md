@@ -31,7 +31,7 @@ O jogador/equipe liberar todas as suas peças/pedras da mão.
 3.  Cada participante receberá um número de peças equivalente ao 'número total de peças dividido pelo número total de jogadores', mantendo a proporção jogadores/peças;  
 4.  A pedra de saída será a 1/5 e &#8226; (nomeada como a peça 0);  
 5.  O próximo a jogar será aquele que estiver à direita do iniciante do jogo;  
-6.  O jogador deve encaixar sua peça/pedra na mesa conforme as pedras presentes nas pontas do caminho formado pelo dominó (seguindo as regras do dominó tradicional).  
+6.  O jogador deve encaixar sua peça/pedra na mesa conforme as pedras presentes nas pontas do caminho formado pelo dominó, seguindo as regras do dominó tradicional, porém utilizando da resolução de equações de frações e partes fracionárias.  
   6.1 O jogador que não conseguir encaixar nenhuma pedra/peça nem seu turno deverá ceder sua vez ao próximo adversário da fila. 
 7.  O vencedor será aquele, jogador ou time, que primeiro encaixar, no caminho/dominó exposto na mesa, todas as suas peças/pedras;
 8.  Caso haja "fechamento" da partida, o vencedor, jogador ou time, será aquele que estiver com a menor quantidade de peças/pedras em mãos.  

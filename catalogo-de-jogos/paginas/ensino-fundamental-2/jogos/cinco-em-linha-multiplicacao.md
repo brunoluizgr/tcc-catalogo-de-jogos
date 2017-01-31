@@ -13,8 +13,8 @@ Desenvolver **estimativas**, cálculo mental envolvendo **multiplicação**, aux
 <br>  
 
 #### <i class="fa fa-scissors"></i> Material  
-Tabuleiro e 20 marcadores de cores distintas (10 de cada cor).  
-**Imprima o tabuleiro e os marcadores clicando** [aqui](http://www.ibilce.unesp.br/Home/Departamentos/Matematica/labmat/cinco_em_linha_multiplicacao.pdf).  
+Tabuleiro, 40 marcadores e dois dados (1 de 6 faces e 1 de 10 faces).  
+**Imprima o tabuleiro e os dados clicando** [aqui](http://www.ibilce.unesp.br/Home/Departamentos/Matematica/labmat/feche_a_caixa_multiplicacao.pdf).  
 <br>  
 
 ## <div class="row text-center">O Jogo</div>  

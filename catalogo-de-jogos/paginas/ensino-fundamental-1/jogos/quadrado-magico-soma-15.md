@@ -14,6 +14,7 @@ Cálculo mental envolvendo **soma**, **raciocínio** e **convívio social**.
 
 #### <i class="fa fa-scissors"></i> Material  
 Tabuleiro de 3x3 (casas) e marcadores numerados de 1 a 9.  
+**Imprima o tabuleiro e os marcadores** [aqui](http://www.ibilce.unesp.br/Home/Departamentos/Matematica/labmat/soma15.pdf).  
 
 ## <div class="row text-center">O Jogo</div>  
 ##### <i class="fa fa-users"></i> Número de Participantes  

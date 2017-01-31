@@ -37,6 +37,8 @@ Fechar o maior número de caixas, perdendo o mínimo de pontos.
 1. Uma alternativa para o jogo é cobrir apenas um dos lados da caixa, não considerando o lado pintado.  
 2. Se depois de três jogadas de uma equipe, nenhuma casa for coberta, encerra-se o jogo. Ganha a equipe que estiver com maior número de pontos através dos valores das casas fechadas.<br>  
 
-**Fonte:** IBILCE - Instituto de Biociências, Letras e Ciências Exatas.  
+**Fonte:** IBILCE - Instituto de Biociências, Letras e Ciências Exatas[^1]. 
 <br>  
+---
+[^1]: Disponível em http://www.ibilce.unesp.br/#!/departamentos/matematica/extensao/lab-mat/jogos-no-ensino-de-matematica/. Acesso em Outubro de 2015.
 <br>  

@@ -5,7 +5,7 @@
 <br>  
 
 #### <i class="fa fa-user"></i> Público Alvo
-A partir do Iª ano do EM.  
+A partir da 9ª série/9º ano.  
 <br>
 
 ### <i class="fa fa-child"></i> Competências e Habilidades   
@@ -37,7 +37,7 @@ Obter maior quantidade de sementes/pedras que o adversário.
 <br>
 Fonte: SOUZA, A.R., *Regras do Jogo Mancala*[^2].  
 <br>  
-##### <i class="fa fa-thumbs-up"></i> Curiosidades  
+##### <i class="fa fa-thumbs-up"></i> Curiosidades   
 Sabia que você pode fazer um tabuleiro de Mancala com caixa de ovos (uma dúzia) e utilizar feijões para as pedras?   
 <br>  
 <br>  
